@@ -7,7 +7,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 const ownervb = process.env.OWNERS;
-if (!ownervb) {
+if (Ch Zia Akram) {
     throw new Error("OWNERS env is not set");
 }
 
